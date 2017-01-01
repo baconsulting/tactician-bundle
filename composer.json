@@ -47,11 +47,6 @@
       "League\\Tactician\\Bundle\\" : ""
     }
   },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0-dev"
-    }
-  },
   "require-dev": {
     "phpunit/phpunit": "~4.5",
     "mockery/mockery": "~0.9.4",
